@@ -1,0 +1,25 @@
+.card-img {
+  height: 88.2vh;
+  border: none;
+  margin-top: 5.8%;
+}
+.container.content {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 1rem;
+  padding: 0 0 4% 47%;
+  margin-top: 7%;
+}
+
+.hero-title {
+  font-weight: 600;
+  font-size: 48px;
+  white-space: nowrap;
+}
+.hero-text {
+  font-size: 28px;
+  font-weight: 400;
+  white-space: nowrap;
+}
