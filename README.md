@@ -1,3 +1,7 @@
+Demo: Deployed on
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bbd3eae0-eab1-4e18-bf60-5a5c2f10d2f3/deploy-status)](https://app.netlify.com/sites/ramyabn-homecollections/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
